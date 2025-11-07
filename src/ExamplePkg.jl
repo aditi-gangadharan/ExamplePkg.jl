@@ -1,5 +1,3 @@
-
-
 "Package demonstrating how to make your code into a Julia package"
 module ExamplePkg
 
